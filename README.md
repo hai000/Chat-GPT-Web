@@ -3,6 +3,6 @@
 
 ### Note
 <p>This project clone from <b>https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web</b></p>
-</div>
-## LICENSE
+### LICENSE
 [MIT](https://opensource.org/license/mit/)
+</div>
